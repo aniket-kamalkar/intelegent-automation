@@ -1,26 +1,18 @@
 {
-  "name": "Practice",
+  "name": "git",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Database.Activities": "[1.7.1]",
-    "UiPath.DocumentUnderstanding.ML.Activities": "[1.21.1]",
-    "UiPath.Excel.Activities": "[2.18.0-preview]",
-    "UiPath.ExchangeServer.Activities": "[1.2.0]",
-    "UiPath.Form.Activities": "[23.4.3]",
-    "UiPath.IntelligentOCR.Activities": "[6.9.1]",
+    "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.OCR.Activities": "[3.15.1]",
-    "UiPath.PDF.Activities": "[3.14.0]",
-    "UiPath.Persistence.Activities": "[1.4.4]",
-    "UiPath.System.Activities": "[21.10.0]",
-    "UiPath.Testing.Activities": "[23.2.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.2.0-preview]"
+    "UiPath.System.Activities": "[23.4.2]",
+    "UiPath.Testing.Activities": "[23.4.0]",
+    "UiPath.UIAutomation.Activities": "[23.4.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "23.2.0.0",
+  "studioVersion": "23.4.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -57,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "68ece2ea-2d33-4aaf-aa86-9a1aa5d3cbae",
+      "uniqueId": "a1fe66aa-cb58-4cb0-8984-a0429d08e12a",
       "input": [],
       "output": []
     }
